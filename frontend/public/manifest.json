@@ -1,0 +1,9 @@
+{
+  "short_name": "My App",
+  "name": "Login, Logout, and Registration Web App",
+  "description": "A web application for user authentication and registration",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
